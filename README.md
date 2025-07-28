@@ -1,4 +1,5 @@
 5385183\_Shreenidhi-Vedpathak
 
-<img src="https://github.com/rajatsingh07/259152\_Name/blob/Dev/SDLC/agile-scrum.jpg" alt="image">
+<img src="https://github.com/shreevedpathak04/5385183_Shreenidhi-Vedpathak/blob/main/GIT/Simplilearn_GIT.png" alt="image">
 
+<img src="https://github.com/shreevedpathak04/5385183_Shreenidhi-Vedpathak/blob/main/SDLC/SDLCC.png" alt="image">
